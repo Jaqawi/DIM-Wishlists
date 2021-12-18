@@ -1,47 +1,59 @@
 title:
-description:Initializing Blacklist-44...
+description:Loading Curated Weapon List...
 
-// Annual Skate (pvp)
-//notes: pvp roll
+// Annual Skate - PvP ()
+//notes: PvP Roll
 dimwishlist:item=6857689&perks=1926090092,3142289711,3436462433,1954620775
 dimwishlist:item=6857689&perks=1926090092,3142289711,3161816588,1954620775
 
 
-// Riiswalker (god-pvp)
-//notes: PVP S-Tier
+// Riiswalker - PvP God Roll ()
+//notes: PvP God Roll
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007
 
 
-// Eyasluna (pvp)
+// Eyasluna - PVP ()
 //notes: PVP Roll
-dimwishlist:item=235827225&perks=1561002382,2846385770,588594999
-dimwishlist:item=235827225&perks=1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090093,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090093,1885400500,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,957782887
 
 
-// Survivor's Epitaph (pvp)
-//notes: PVP Roll
+// Main Ingredient - PvP ()
+//notes: PvP Roll
+dimwishlist:item=253196586&perks=2405638014,689005463,1645158859,1890422124
+dimwishlist:item=253196586&perks=2405638014,1687452232,1645158859,1890422124
+
+
+// Survivor's Epitaph ()
+//notes: PvP Roll
 dimwishlist:item=310708513&perks=3250034553,1561002382,2450788523,588594999
 
 
-// The Palindrome (pvp)
-//notes: PVP Roll
+// The Palindrome - PvP ()
+//notes: PvP Roll
 dimwishlist:item=432476743&perks=3250034553,1885400500,2450788523,2846385770
 dimwishlist:item=432476743&perks=3250034553,1561002382,2450788523,2846385770
+dimwishlist:item=432476743&perks=1482024992,1885400500,2450788523,2846385770
+dimwishlist:item=432476743&perks=1482024992,1561002382,2450788523,2846385770
 
 
-// Retraced Path (pve)
-//notes: PVE Roll
+// Retraced Path - PvE ()
+//notes: PvE Roll
 dimwishlist:item=548958835&perks=1840239774,2749775325,1820235745,4049631843
 dimwishlist:item=548958835&perks=1840239774,2749775325,1820235745,2610012052
 
 
 // Chroma Rush - Chroma Test ()
-//notes: Checking Security Clearence...
+//notes: Initializing...
 dimwishlist:item=1119734784&perks=839105230,3177308360,1820235745,3425386926
 
 
-// PLUG ONE.1 (pvp)
-//notes: PVP Rolls
+// PLUG ONE.1 - PvP ()
+//notes: PvP Roll
 dimwishlist:item=1289000550&perks=4090651448,1687452232,706527188,2726471870
 dimwishlist:item=1289000550&perks=4090651448,1687452232,1645158859,2726471870
 dimwishlist:item=1289000550&perks=4090651448,1687452232,2450788523,2726471870
@@ -50,45 +62,63 @@ dimwishlist:item=1289000550&perks=4090651448,3868766766,1645158859,2726471870
 dimwishlist:item=1289000550&perks=4090651448,3868766766,2450788523,2726471870
 
 
-// Nature of the Beast (pvp)
-//notes: PVP Roll
+// Wastelander M5 - PvP ()
+//notes: Pvp Roll
+dimwishlist:item=1679868061&perks=4090651448,3142289711,1820235745,47981717
+dimwishlist:item=1679868061&perks=4090651448,3142289711,3161816588,47981717
+
+
+// Wastelander M5 - PvE ()
+//notes: PvE Roll
+dimwishlist:item=1679868061&perks=1332244541,3142289711,1820235745,3673922083
+dimwishlist:item=1679868061&perks=1332244541,3142289711,1820235745,2360754333
+dimwishlist:item=1679868061&perks=1332244541,791862061,1820235745,3673922083
+dimwishlist:item=1679868061&perks=1332244541,791862061,1820235745,2360754333
+
+
+// Nature of the Beast - PvP ()
+//notes: PvP Roll
 dimwishlist:item=1835747805&perks=1926090093,3142289711,957782887,2846385770
 
 
-// Fatebringer (pvp)
-//notes: PVP Roll
+// Fatebringer - PvP ()
+//notes: PvP Roll
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1015611457
 
 
-// Royal Entry (pve)
-//notes: PVE Roll
+// Royal Entry - PvE God Roll ()
+//notes: PvE God Roll
 dimwishlist:item=2448907086&perks=981914802,3796465595,951095735,2284787283
-dimwishlist:item=2448907086&perks=981914802,3796465595,951095735,3927722942
 
 
-// Code Duello (pve)
-//notes: PVE Roll
+// Code Duello - PvE ()
+//notes: PvE Roll
 dimwishlist:item=2496242052&perks=981914802,3796465595,951095735,2010801679
 dimwishlist:item=2496242052&perks=981914802,3796465595,951095735,3927722942
 
 
-// Iota Draconis (pvp)
-//notes: PVP Roll
+// Iota Draconis - PvP ()
+//notes: PvP Roll
 dimwishlist:item=3044460004&perks=4090651448,2969185026,1645158859,2213355989
 
 
-// Found Verdict (pvp)
+// Found Verdict - PvP ()
 //notes: PVP Roll
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,47981717
 
 
-// First In, Last Out (god-pvp)
-//notes: PVP S-Tier
+// First In, Last Out - PvP God Roll ()
+//notes: PvPGod Roll
 dimwishlist:item=3616586446&perks=202670084,3142289711,3161816588,47981717
 
 
-// The Hothead (pve)
-//notes: PVE Roll
+// First In, Last Out - PvE God Roll ()
+//notes: PvE God Roll
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391
+
+
+// The Hothead - PvE God Roll ()
+//notes: PvE God Roll
 dimwishlist:item=4255171531&perks=981914802,3796465595,3977735242,2284787283
 dimwishlist:item=4255171531&perks=981914802,3796465595,3977735242,3194351027
 
