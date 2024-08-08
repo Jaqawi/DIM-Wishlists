@@ -1,5 +1,50 @@
 title:Blacklist-44
-description:Aug 4th, 2024: Hello, Iron Lord.  Loading curated tools of destruction...
+description:Aug 8th, 2024: Hello, Iron Lord.  Loading curated tools of destruction...
+
+
+// Stoicism (pvp)
+//notes: tags:pvp
+dimwishlist:item=266021826&perks=1476923954,3573490507
+dimwishlist:item=266021826&perks=1476923954,3573490504
+dimwishlist:item=266021826&perks=1476923954,3573490507
+dimwishlist:item=266021826&perks=1476923954,3573490507
+dimwishlist:item=266021826&perks=1476923954,3573490500
+dimwishlist:item=266021826&perks=1476923953,1476923956
+dimwishlist:item=266021826&perks=1476923953,3573490504
+dimwishlist:item=266021826&perks=1476923953,3573490507
+dimwishlist:item=266021826&perks=1476923953,3573490501
+dimwishlist:item=266021826&perks=1476923953,3573490500
+
+
+// Stoicism (pve)
+//notes: tags:pve
+dimwishlist:item=266021826&perks=3573490509,3573490504
+dimwishlist:item=266021826&perks=1476923953,1476923955
+dimwishlist:item=266021826&perks=1476923953,3573490507
+dimwishlist:item=266021826&perks=1476923953,3573490500
+
+
+// Relativism (pvp)
+//notes: tags:pvp
+dimwishlist:item=2809120022&perks=1476923954,3751917992
+dimwishlist:item=2809120022&perks=1476923954,3751917991
+dimwishlist:item=2809120022&perks=1476923954,3751917990
+dimwishlist:item=2809120022&perks=1476923954,1476923956
+dimwishlist:item=2809120022&perks=3751917997,3751917992
+dimwishlist:item=2809120022&perks=3751917997,3751917991
+dimwishlist:item=2809120022&perks=3751917997,3751917990
+
+
+// Relativism (pve)
+//notes: tags:pve
+dimwishlist:item=2809120022&perks=1476923953,1476923955
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+dimwishlist:item=2809120022&perks=1476923953,3751917992
+dimwishlist:item=2809120022&perks=3751917998,1476923955
+dimwishlist:item=2809120022&perks=3751917997,3751917990
+dimwishlist:item=2809120022&perks=3751917997,3751917990
+dimwishlist:item=2809120022&perks=3751917997,3751917990
+dimwishlist:item=2809120022&perks=3751917995,3751917994
 
 
 // Outbreak Perfected (pve)
